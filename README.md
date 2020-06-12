@@ -25,3 +25,6 @@
 #### 	编程题
 
 1. 脚手架的实现过程：使用inquirer来实现脚手架，修改package.json,添加"bin": "cli.js",再在根目录下创建cli.js，在cli.js配置脚手架
+代码： code\vr-cli
+2. gulp自动化构建代码：code/gulp-exp
+3. grunt自动化构建代码：code/grunt-exp
