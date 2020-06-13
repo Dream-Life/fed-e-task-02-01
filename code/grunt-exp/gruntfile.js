@@ -160,7 +160,7 @@ module.exports = grunt=>{
                 files: [{
                     expand: true,
                     cwd: 'src/',
-                    src: ['assets/images/*..{jpg,jpeg,gif,png,svg}','assets/fonts/*.{svg,eot,ttf,woff}'],
+                    src: ['assets/images/*.{jpg,jpeg,gif,png,svg}','assets/fonts/*.{svg,eot,ttf,woff}'],
                     dest: 'dist/'
                 }]
             }

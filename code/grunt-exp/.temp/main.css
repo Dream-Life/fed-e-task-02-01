@@ -49,7 +49,7 @@ body {
   margin-bottom: 0;
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #fff;
+  background-color: #000;
 }
 @media (min-width: 768px) {
   .jumbotron {

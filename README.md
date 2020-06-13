@@ -28,3 +28,7 @@
 代码： code\vr-cli
 2. gulp自动化构建代码：code/gulp-exp
 3. grunt自动化构建代码：code/grunt-exp
+
+
+
+简述视频：http://qiniu.ytcode.cn/%E8%A7%86%E9%A2%91%E7%AE%80%E8%BF%B0.mp4
